@@ -1,0 +1,42 @@
+{
+    "Alarms": [
+        {
+            "enabled": true,
+            "id": "{5f8db678-7164-4a5d-a663-89a04de41b1e}",
+            "period": "workdays",
+            "time": "06:30",
+            "uri": "http://st01.dlf.de/dlf/01/128/mp3/stream.mp3",
+            "volume": 40
+        }
+    ],
+    "InternetRadio": [
+        {
+            "id": "{99d82912-3b59-11e9-a0f7-d0577b23e8f8}",
+            "name": "string",
+            "uri": "http://heise.de"
+        },
+        {
+            "id": "{a76e2c02-3b59-11e9-8087-d0577b23e8f8}",
+            "name": "A Ream name",
+            "uri": "http://heise.de",
+            "url": "http://www.heise.de"
+        }
+    ],
+    "Podcasts": [
+        {
+            "id": "{1ba2b299-3379-4e69-82b8-fcba987f3cd6}",
+            "name": "Arms Control Wonk",
+            "uri": "http://armscontrolwonk.libsyn.com/rss"
+        }
+    ],
+    "Weather": {
+        "API-Key": "a904431b4e0eae431bcc1e075c761abb",
+        "locationID": "2928751"
+    },
+    "alarmTimeout": 30,
+    "brightnessActive": 85,
+    "brightnessStandby": 85,
+    "sleepTimeout": 60,
+    "version": "0.6.2",
+    "volume": 30
+}
